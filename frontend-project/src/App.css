@@ -1,0 +1,29 @@
+
+nav a {
+  text-decoration: none;
+  color: black !important;
+  
+}
+
+.Myprofile{
+ 
+  margin-top: 5px;
+  margin-left: 50px;
+}
+.cart{
+  margin-top: 5px;
+  margin-left: 10px;
+}
+
+.logout{
+  margin-top: 5px;
+  margin-left: 10px;
+}
+
+.CardElement{
+  margin-top: 1em;
+  padding: 15px;
+  box-shadow: black;
+  cursor: pointer;
+}
+
